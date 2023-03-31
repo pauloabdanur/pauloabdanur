@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi There! <br><br>I'm Paulo Abdanur, a React Front End developer who loves Soccer and Beer . <br><br>Contact me and let's talk about coding and share some knowledge 😁
+# Hi There! 👋:
+I'm Paulo Abdanur, a React Front End developer who loves Soccer and Beer. <br><br>Contact me and let's talk about coding and share some knowledge 😁
 
 
 ## 🌐 Socials:
