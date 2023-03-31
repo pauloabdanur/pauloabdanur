@@ -1,4 +1,4 @@
-# Hi There! 👋:
+# Hi There! 👋
 I'm Paulo Abdanur, a React Front End developer who loves Soccer and Beer. <br><br>Contact me and let's talk about coding and share some knowledge 😁
 
 
