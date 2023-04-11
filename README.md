@@ -1,6 +1,8 @@
 # Hi There! 👋
 I'm Paulo Abdanur, a React Front End developer who loves Soccer and Beer. <br><br>Contact me and let's talk about coding and share some knowledge 😁
 
+My Personal portfolio: https://www.pauloabdanur.dev/
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pauloabdanur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pauloabdanur) 
